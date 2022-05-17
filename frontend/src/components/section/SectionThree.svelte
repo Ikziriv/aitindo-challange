@@ -37,7 +37,7 @@
         </div>
     </div>
 
-    <div class="grid grid-cols-2 gap-2 relative overflow-hidden">
+    <div class="grid grid-cols-2 gap-2 relative overflow-hidden md:pt-20">
         <div class="col-span-full md:col-span-1 w-full flex justify-end items-end md:items-center">
             <div class="flex flex-col w-auto h-auto max-w-xs md:max-w-sm z-10 space-y-4">
                 <div class="flex flex-col w-auto h-auto items-end">
