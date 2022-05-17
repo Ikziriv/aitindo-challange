@@ -1,0 +1,19 @@
+{
+  "name": "aitindo-app-dev",
+  "version": "1.0.0",
+  "description": "Challange test apps for aitindo",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ikziriv/aitindo-app-dev.git"
+  },
+  "author": "ikziriv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ikziriv/aitindo-app-dev/issues"
+  },
+  "homepage": "https://github.com/Ikziriv/aitindo-app-dev#readme"
+}
