@@ -1,4 +1,4 @@
-# Challange Test Frontend & Backend
+# Challange Frontend & Backend
 
 Frontend :
 Grading Criteria
