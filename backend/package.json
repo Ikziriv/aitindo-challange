@@ -1,0 +1,27 @@
+{
+    "name": "todos-back-front",
+    "version": "1.0.0",
+    "description": "Aitindo challange web development",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon server.js"
+    },
+    "keywords": [
+        "svelte",
+        "sveltekit",
+        "node",
+        "express"
+    ],
+    "author": "Ikziriv",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.20.0",
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.1",
+        "express": "^4.18.1",
+        "mongoose": "^6.3.3",
+        "morgan": "^1.10.0",
+        "nodemon": "^2.0.16"
+    }
+}
